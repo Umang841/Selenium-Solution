@@ -36,7 +36,7 @@ public class swaglabs {
 		driver.findElement(By.id("first-name")).sendKeys("Ram");
 		Thread.sleep(1000);
 		
-		driver.findElement(By.id("last-name")).sendKeys("Srivas");
+		driver.findElement(By.id("last-name")).sendKeys("Srivastava");
 		Thread.sleep(1000);
 		
 		driver.findElement(By.id("postal-code")).sendKeys("24500");
